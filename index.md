@@ -30,7 +30,7 @@ Heading 1
 Heading 2
 [Link](http://a.com)	[Link][1]
 ⋮
-[![aggiecover.png](https://i.postimg.cc/mrrnTJwf/aggiecover.png)](https://postimg.cc/68Dc0HgY)
+[![ucsd.jpeg](https://library.ucsd.edu/news-events/wp-content/uploads/2020/08/Library-Blog-Post-Feature-1920x1080-50th-1.jpg)
 ⋮
 
 > Blockquote	 	

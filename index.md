@@ -30,9 +30,9 @@ Heading 1
 Heading 2
 [Link](http://a.com)	[Link][1]
 ⋮
-[aggiecover.png](https://postimg.cc/68Dc0HgY)
+[![aggiecover.png](https://i.postimg.cc/mrrnTJwf/aggiecover.png)](https://postimg.cc/68Dc0HgY)
 ⋮
-[1]: http://url/b.jpg	Markdown
+
 > Blockquote	 	
 Blockquote
 * List

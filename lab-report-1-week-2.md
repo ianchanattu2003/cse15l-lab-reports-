@@ -64,4 +64,4 @@ To optimize remote running, I can add commands to the **ssh** command in quotati
 ![Image](lab1ss7.JPG)
 Meanwhile for the above command, I ran multiple commands on the same line which then performs all these commands after **cp**. 
 
-[My First Github Page](https://ianchanattu2003.github.io/cse15l-lab-reports-/)
+

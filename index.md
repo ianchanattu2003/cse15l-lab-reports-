@@ -12,5 +12,8 @@ This class is fun!!!!
 * mus 130
 * doc 2
 
-# First Lab Report:
+## First Lab Report:
 [Here is the link](https://ianchanattu2003.github.io/cse15l-lab-reports-/lab-report-1-week-2.html)
+
+## Second Lab Report:
+[Here is the link](https://ianchanattu2003.github.io/cse15l-lab-reports-/lab-report-2-week-4.html)

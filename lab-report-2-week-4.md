@@ -39,7 +39,7 @@ This bug was needed because of the error inducing input of the following file, w
 
 
 The following shows the symptom of this, or the wrongful output:
-![Image](ss6lab2.jpg)
+![Image](ss6lab2.JPG)
 
 In this case, we see that an addition if statement is added to ensure that the link format is proper, due to the symptom that we saw in the wrongful output of the input of a link that contained a large gap between the bracket and parenthesis. To fix this, we added the if statement that ensures that the "(" is after the "]". 
 

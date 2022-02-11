@@ -17,3 +17,6 @@ This class is fun!!!!
 
 ## Second Lab Report:
 [Here is the link](https://ianchanattu2003.github.io/cse15l-lab-reports-/lab-report-2-week-4.html)
+
+## Third Lab Report:
+[Here is the link]()

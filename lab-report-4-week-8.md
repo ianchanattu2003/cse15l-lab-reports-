@@ -8,11 +8,14 @@ Through the VSCode preview of what the md file should produce I have determined 
 
 This can be seen by the following test:
 
-![First Image]()
+![First Image](test1.JPG)
 
 In the case of my test, this is the result:
+![](myresult1.JPG)
 
 In the case of the person I was reviewing's test, this was the result:
+
+![](testperson1.JPG)
 
 ### Can this be fixed with a short change?
 
@@ -27,11 +30,15 @@ Through the VSCode preview of what the md file should produce I have determined 
 
 This can be seen by the following test:
 
-![Second Image]()
+![](test2.JPG)
 
 In the case of my test, this is the result:
 
+![](myresult2.JPG)
+
 In the case of the person I was reviewing's test, this was the result:
+
+![](testperson2.JPG)
 
 ### Can this be fixed with a short change?
 
@@ -47,11 +54,15 @@ Through the VSCode preview of what the md file should produce I have determined 
 
 This can be seen by the following test:
 
-![Second Image]()
+![](test3.JPG)
 
 In the case of my test, this is the result:
 
+![](myresult3.JPG)
+
 In the case of the person I was reviewing's test, this was the result:
+
+![](testperson3.JPG)
 
 ### Can this be fixed with a short change?
 

@@ -17,13 +17,13 @@ program that weren’t related to some file that was stopping me from seeing wha
 
 **Correct**
 []
-I believe in this case, our implementation is correct.
+I believe in this case, Joe's  implementation is correct.
 This is because markdown doesn’t consider special characters in their links, 
 therefore this is not a valid link, since the special characters are included in the link.
 I think a fix for this would be to include a code snippet that checks if the link contains any special characters, 
 and this can be fixed by adding an if statement to the code. 
 
-
+![Image](ss1lab5.JPG)
 
 ## Test Number 2:
 
@@ -39,3 +39,5 @@ and this can be fixed by adding an if statement to the code.
 
  I think that in this case, Joe’s test case is correct, since, despite the link having a .jpg it does follow the syntax of a link in markdown.
  The bug in the code that should be fixed is the following: 
+
+ ![Image](ss1lab5.JPG)
